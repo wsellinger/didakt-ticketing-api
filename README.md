@@ -1,2 +1,2 @@
-# event-ticketing-api
-A simple event ticketing api written in Java
+# Didakt Ticketing Api
+A ticketing api written in Java
